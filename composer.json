@@ -1,5 +1,5 @@
 {
-    "name": "emilioforrer/flarum-i18n-spanish",
+    "name": "emilioforrer/flarum-ext-spanish",
     "type": "flarum-extension",
     "description": "Spanish language pack.",
     "keywords": ["locale"],
