@@ -50,7 +50,7 @@ core:
 
     # These translations are used in the Dashboard page.
     dashboard:
-      beta_warning_text: "Este <strong> software beta </ strong> se proporciona principalmente para que usted pueda ayudarnos a probarlo y hacerlo mejor; No debe ser utilizado en la producción."
+      beta_warning_text: "Este <strong> software beta </strong> se proporciona principalmente para que usted pueda ayudarnos a probarlo y hacerlo mejor; No debe ser utilizado en la producción."
       contributing_text: "¿Quieres buscar bugs y contribuir? Lea los <a> documentos contribuyentes </a>."
       extension_text: "¿Interesado en desarrollar extensiones? Lea el <a> Documento de extensión </a>."
       features_text: "¿Tienes una idea para mejorar una característica? Cuéntanoslo en la <a> etiqueta de características </a>."
